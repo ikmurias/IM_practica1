@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IM_presentacion</string>
+    <string name="nombre">Iker Murias</string>
+    <string name="titulo">Estudiante UR</string>
+    <string name="numero">6666666666</string>
+    <string name="social">\@MyInstagram</string>
+    <string name="email">ikmurias@unirioja.es</string>
+</resources>
